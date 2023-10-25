@@ -1,0 +1,67 @@
+body
+{
+    font= family: 'poppins' 
+}
+. nav__bar
+{ 
+ width: 1280px;
+ margin: 0 ato;
+}
+.titulo
+{
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    margin: 15px 15px;
+    font-size:15px;
+    font-weight: 700;
+}
+. banner 
+{
+    background-image: url('logo_quemsomos-02.pg') ;
+    height: 278px;
+    background-repeat: no=repeat;
+    background-position: center;
+
+}
+. nav
+{   list-style-type: nome;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin:4ren 0;
+border:5px solid black;
+}
+.btn
+{
+    background-color: ;#6E005F;
+    border: nome;
+    cursor: pointer;
+    height: 44px;
+    text-decoration: nome;
+    color: #fff
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-family: 'poppins';
+    font-style: normal;
+    fonte-weigth:400;
+}
+.btn:hover
+{
+    color: #cecdce;
+    border=radius:10px;
+    border=bottom:2px solid var(--text- description=color);
+
+}
+h2{
+font-size: 22px ;
+border-bottom: 5px solid #fc6621;
+padding-bottom: 8px;
+font-weight: 700;
+display: inline-block;
+
+}
+.impacto{
+   background-color: #6E005F;
